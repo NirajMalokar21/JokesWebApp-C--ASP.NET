@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programming\\C#\\FCCSharp\\JokesWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4371AD7F-1881-461D-BF23-F78179764541}|JokesWebApp.csproj|c:\\programming\\c#\\fccsharp\\jokeswebapp\\data\\migrations\\20240319194115_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4371AD7F-1881-461D-BF23-F78179764541}|JokesWebApp.csproj|solutionrelative:data\\migrations\\20240319194115_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4371AD7F-1881-461D-BF23-F78179764541}|JokesWebApp.csproj|c:\\programming\\c#\\fccsharp\\jokeswebapp\\controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4371AD7F-1881-461D-BF23-F78179764541}|JokesWebApp.csproj|solutionrelative:controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4371AD7F-1881-461D-BF23-F78179764541}|JokesWebApp.csproj|c:\\programming\\c#\\fccsharp\\jokeswebapp\\models\\joke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4371AD7F-1881-461D-BF23-F78179764541}|JokesWebApp.csproj|solutionrelative:models\\joke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4371AD7F-1881-461D-BF23-F78179764541}|JokesWebApp.csproj|c:\\programming\\c#\\fccsharp\\jokeswebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4371AD7F-1881-461D-BF23-F78179764541}|JokesWebApp.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4371AD7F-1881-461D-BF23-F78179764541}|JokesWebApp.csproj|c:\\programming\\c#\\fccsharp\\jokeswebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4371AD7F-1881-461D-BF23-F78179764541}|JokesWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240319194115_initialsetup.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\FCCSharp\\JokesWebApp\\Data\\Migrations\\20240319194115_initialsetup.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240319194115_initialsetup.cs",
+              "ToolTip": "C:\\Programming\\C#\\FCCSharp\\JokesWebApp\\Data\\Migrations\\20240319194115_initialsetup.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240319194115_initialsetup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:41:15.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JokesController.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\FCCSharp\\JokesWebApp\\Controllers\\JokesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JokesController.cs",
+              "ToolTip": "C:\\Programming\\C#\\FCCSharp\\JokesWebApp\\Controllers\\JokesController.cs",
+              "RelativeToolTip": "Controllers\\JokesController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:36:24.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Joke.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\FCCSharp\\JokesWebApp\\Models\\Joke.cs",
+              "RelativeDocumentMoniker": "Models\\Joke.cs",
+              "ToolTip": "C:\\Programming\\C#\\FCCSharp\\JokesWebApp\\Models\\Joke.cs",
+              "RelativeToolTip": "Models\\Joke.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:33:48.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\FCCSharp\\JokesWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Programming\\C#\\FCCSharp\\JokesWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:33:30.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Programming\\C#\\FCCSharp\\JokesWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Programming\\C#\\FCCSharp\\JokesWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T19:29:18.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
